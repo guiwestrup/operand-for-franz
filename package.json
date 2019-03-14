@@ -1,0 +1,13 @@
+{
+  "id": "operand",
+  "name": "Operand",
+  "version": "0.0.1",
+  "description": "Operand",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app4.operand.com.br/",
+    "hasNotificationSound": true
+  }
+}
